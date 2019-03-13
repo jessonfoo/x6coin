@@ -10,7 +10,7 @@ x6coin is a unique approach to charitable giving. When a donation is made, that 
 SPECIFICATIONS –
 
 Algo: Hybrid Scrypt Proof Of Stake (POS) Cryptocurrency –
-Max Supply – unlimited X6
+Max Supply – 60,000,000 X6
 Stake Reward Rate = 1% /year
 Main Net Launch Date = November 4th 2018
 300K Pre Mine (100K On 3 Super Nodes) For Processing Transactions
