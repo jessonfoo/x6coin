@@ -1,7 +1,19 @@
 
-X6 development tree
+X6coin
 
 X6 is a PoS-based cryptocurrency.
+
+The X6 coin is a free, basic income distribution model developed to help low income families in the Philippines and in other third world countries.
+
+x6coin is a unique approach to charitable giving. When a donation is made, that donation can then be staked by the recipient, turning that donation into a way for the recipient to further generate income from it. This is very important in helping achieve the goal of x6coin by bringing basic income generation to poverish or unbankable countries through acts of charity. All of this paired with the nature of blockchain technology makes for a very effective way to bring basic income generation to those who need it..
+
+SPECIFICATIONS –
+
+Algo: Hybrid Scrypt Proof Of Stake (POS) Cryptocurrency –
+Max Supply – unlimited X6
+Stake Reward Rate = 1% /year
+Main Net Launch Date = November 4th 2018
+300K Pre Mine (100K On 3 Super Nodes) For Processing Transactions
 
 Development process
 ===========================
